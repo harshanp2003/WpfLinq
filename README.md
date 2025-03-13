@@ -1,4 +1,4 @@
-Write a C# program that asks the user to enter multiple lines of text (until they type "STOP"). 
-Save these lines into a file named "output.txt". 
-Then, read and display the contents of the file. 
-Implement proper exception handling to catch potential errors (e.g., file access issues).
+Write a program that takes a list of integers from the user and performs the following operations using LINQ:
+a) Find all numbers greater than 50
+b) Sort the numbers in ascending order
+c) Find the square of each number
